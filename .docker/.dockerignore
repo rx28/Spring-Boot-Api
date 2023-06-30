@@ -1,0 +1,13 @@
+**/*.bat
+**/*.log
+**/*.md
+**/*.yml
+**/.dockerignore
+**/.editorconfig
+**/.git
+**/.gitattributes
+**/.github
+**/.gitignore
+**/.idea
+**/.vscode
+**/target

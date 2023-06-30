@@ -1,0 +1,5 @@
+*.bat
+*.log
+.idea
+.vscode
+target
